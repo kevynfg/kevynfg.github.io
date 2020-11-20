@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Bem-vindo ao meu portifólio. 
 
-You can use the [editor on GitHub](https://github.com/kevynfg/kevynfg.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Natural de Cubatão, tenho 26 anos e sou desenvolvedor Front-end. Estudante de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, meu primeiro contato  
+com a programação foi em 2013, neste período aprendi a desenvolver aplicativos desktop com Delphi e C# durante meu curso técnico totalmente voltado para programação em geral.  
+Atualmente procuro desenvolver ferramentas que auxilie o dia-a-dia e automatize tarefas, pois acredito serem totalmente necessário este aspecto no ambiente de desenvolvedor.  
+Possuo conhecimentos em ReactJS, NodeJS, MongoDB e PostgreSQL, caso você ainda esteja aqui, aproveite e vá conhecer meu último projeto que desenvolvi para ajudar as pessoas  
+durante a quarentena, minha web page para meditação com sons de diversos ambientes.  
+[Moodtation](https://kevynfg.github.io/moodtation)  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kevynfg/kevynfg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Redes sociais 
+* [LinkedIn](http://linkedin.com.br/in/kevynfg)
